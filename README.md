@@ -54,6 +54,9 @@ http://4eddit-ln.surge.sh
 :octocat: Luan C.
 (https://github.com/luancn4)
 
+### Contato :octocat:
+https://www.linkedin.com/in/n-acedo/
+
 
 ### Imagens
 ![image](https://user-images.githubusercontent.com/56961021/80851950-17c41500-8bfb-11ea-9d09-59a5261e0145.png)
